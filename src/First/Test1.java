@@ -9,6 +9,8 @@ public class Test1 {
         System.out.println(" Apple ");
         System.out.println();
 
+        String name="Ulku";
+
 
     }
 
